@@ -111,3 +111,10 @@ Downloads/qr_code.png
 **Midhun Manesh**  
 B.Tech CSE (AI & ML) Student  
 Aspiring AI/ML Engineer 🚀
+College Of Engineering Chengannur
+
+---
+
+## 📜 License
+
+This project is open-source and free to use for learning purposes.
